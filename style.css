@@ -85,7 +85,7 @@ body {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background: linear-gradient(45deg, purple, gold);
+  background: linear-gradient(45deg, red, gold);
   transition: width 0.3s ease;
 }
 
@@ -94,8 +94,8 @@ body {
 }
 
 .contact-btn {
-  background: linear-gradient(45deg, #
-  purple, blue);
+  background: linear-gradient(45deg,
+  purple, red);
   color: white;
   padding: 0.8rem 1.5rem;
   border-radius: 5px;
